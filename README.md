@@ -1,4 +1,4 @@
-# Shitcoin
+# Shitcoin on Avalanche blockchain
 
 ## Features
 
@@ -8,3 +8,8 @@
 - `BURNER_ROLE` can burn whatever amount on any address
 - `PAUSER_ROLE` can pause all token transfers
 - No premine :trollface:
+
+## Add it to your [Avalanche wallet](https://wallet-beta.avax.network)
+
+Follow instructions at [https://github.com/tubededentifrice/coins](https://github.com/tubededentifrice/coins)
+
