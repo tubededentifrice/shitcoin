@@ -74,12 +74,7 @@ contract ShitCoin is ERC20, AccessControlEnumerable, ERC20Burnable, ERC20Pausabl
         _unpause();
     }
 
-    function _mintMinerReward() internal {
-        _mint(block.coinbase, 1);
-    }
-
     function _beforeTokenTransfer(address from, address to, uint256 amount) internal virtual override(ERC20, ERC20Pausable) {
-        _mintMinerReward();
         super._beforeTokenTransfer(from, to, amount);
     }
 }
