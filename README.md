@@ -8,6 +8,7 @@
 - `BURNER_ROLE` can burn whatever amount on any address
 - `PAUSER_ROLE` can pause all token transfers
 - No premine :trollface:
+- Energy friendly: the only energy it takes to create more coins is me clicking on a button and sending a transaction on Avalanche (PoS)
 
 ## Add it to your [Avalanche wallet](https://wallet-beta.avax.network)
 
